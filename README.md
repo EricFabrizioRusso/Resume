@@ -1,3 +1,3 @@
-## RUSSITO
+# Developer Resume
 
-Este es un repositorio _copadisimo_ *BUENARDO*
+The layout of a curriculum vitae made with HTML Grid.
