@@ -239,4 +239,39 @@ h5{
 
 }
 
+@media screen and (max-width: 768px) {
+
+
+    .resume{
+
+
+
+        display: flex;
+        flex-direction: column;
+           
+    }
+
+    .resume__header{
+
+        grid-area: header;
+        background: var(--secundary-color);
+    
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    
+        margin-top: 5%;
+    
+    }
+
+    .header__solid{
+
+   
+       display: none;
+       
+    }
+
+    
+}
+
 
