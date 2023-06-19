@@ -51,6 +51,7 @@ h4{
 
    border-left: 5em solid #fff;
    border-right: 5em solid #fff;
+   margin-bottom: 10em;
     
 }
 
@@ -80,6 +81,14 @@ h4{
     
     color: #444;
     
+
+}
+
+.header__photo >img{
+
+    width: 100%;
+    object-fit: contain;
+    border-radius: .5em;
 
 }
 
@@ -131,6 +140,7 @@ h4{
 
     width: 1.5em;
     margin-right: 1em;
+
 
 }
 
